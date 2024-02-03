@@ -1,3 +1,5 @@
+## Names Bonus Questions
+
 For this first set of questions, you might find it useful to refer to the PostgreSQL string functions (https://www.postgresql.org/docs/14/functions-string.html).
 
 	1. Find the longest name contained in this dataset. What do you notice about the long names?
